@@ -1,7 +1,7 @@
 '''
 Created on Aug 15, 2016
 
-@author: Nathan
+@author: Nathan Legg
 '''
 
 running = True
